@@ -1,0 +1,23 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "mocha-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --growl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karzanOnline/Mocha-dome.git"
+  },
+  "keywords": [
+    "mocha",
+    "test"
+  ],
+  "author": "karzanonline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karzanOnline/Mocha-dome/issues"
+  },
+  "homepage": "https://github.com/karzanOnline/Mocha-dome#readme"
+}
